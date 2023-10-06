@@ -1,4 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ *
+ * Description: 'the program's ddescription'
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 
