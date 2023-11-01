@@ -1,5 +1,5 @@
-#!/bin/bash
 #ifndef MAIN_H
+#define MAin_H
 
 int _putchar(char c);
 int _islower(int c);
