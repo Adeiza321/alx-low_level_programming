@@ -11,6 +11,12 @@
  * Description: They attributes of a dog
  */
 
+/**
+ * dog_t - new namw for struct dog
+ */
+
+typedef struct dog dog_t;
+
 struct dog
 {
 	char *name;
